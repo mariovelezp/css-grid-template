@@ -1,11 +1,11 @@
 # css-grid-template
 Taller 1 maquetacion html css
 
-Tamaño DeskTop
+Tamaño DeskTop <br>
 ![Screenshot](desktopView.png)
 
-Tamaño Tablet
+Tamaño Tablet <br>
 ![Screenshot](tabletsView.png)
 
-Tamaño Celular
+Tamaño Celular <br>
 ![Screenshot](celularView.png)
