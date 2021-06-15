@@ -1,5 +1,5 @@
-# css-grid-template
-Taller 1 maquetacion html css
+# css-grid-template 
+Taller 1 maquetacion html css responsive
 
 Tamaño DeskTop <br>
 ![Screenshot](desktopView.png)
