@@ -2,5 +2,5 @@
 Taller 1 maquetacion html css
 
 ![Screenshot](desktopView.png)
-![Screenshot](tabletView.png)
+![Screenshot](tabletsView.png)
 ![Screenshot](celularView.png)
